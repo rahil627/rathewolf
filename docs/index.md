@@ -17,11 +17,11 @@ just don't mess with anything!
 ### strange marks
 there are strange marks all over the place, on all kinds of surfaces 
 
-[rahil's site](https://rahilpatel.com)
-[the mind of ra, the wolf](https://mind.rathewolf.com)
-[rathewolf's fighting game anarchy](https://fga.rathewolf.com)
-[rathewolf's experimental game anarchy](https://ega.rathewolf.com)
-[rathewolf's nature's guardians anarchy](https://nga.rathewolf.com)
+[rahil's site](https://rahilpatel.com)  
+[the mind of ra, the wolf](https://mind.rathewolf.com)  
+[rathewolf's fighting game anarchy](https://fga.rathewolf.com)  
+[rathewolf's experimental game anarchy](https://ega.rathewolf.com)  
+[rathewolf's nature's guardians anarchy](https://nga.rathewolf.com)  
 - - -
 
 ### notes
