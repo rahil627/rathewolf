@@ -22,8 +22,7 @@ there are strange marks all over the place, on all kinds of surfaces
 [rathewolf's fighting game anarchy](https://fga.rathewolf.com)
 [rathewolf's experimental game anarchy](https://ega.rathewolf.com)
 [rathewolf's nature's guardians anarchy](https://nga.rathewolf.com)
-
-
+- - -
 
 ### notes
 maybe should just include the portfolio here, so everything is on one page
