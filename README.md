@@ -5,7 +5,7 @@ although this domain contains sites for my digital projects, this site (www...) 
 
 it also contains a list of my digital works: my "portfolio". though, theere's a problem with this, as it doesn't contain all of the work i've done outside of this screen, which is, 90% of my works. [todo:] Perhaps a bio / history is needed.
 
-digital projects 'n ideas including digital communities will be born here, on a sub-domain. If it grows, gets it's own name, it's own identity, it can be moved later. I reserved [willowolf.com](https://www.willowolf.com) and [wolfoftheway.com」(https://www.wolfoftheway.com）as potential places for older projects to move to and continue to live on.
+digital projects 'n ideas including digital communities will be born here, on a sub-domain. If it grows, gets it's own name, it's own identity, it can be moved later. I reserved [willowolf.com](https://www.willowolf.com) and [wolfoftheway.com](https://www.wolfoftheway.com) as potential places for older projects to move to and continue to live on.
 - - -
 
 ### implementation
