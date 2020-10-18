@@ -1,5 +1,5 @@
 ### rathewolf
-this is my new digital home [rathewolf.com](https://www.rathewolf.com)! (my can still be found at [rahilpatel.com](https://www.rahilpatel.com))
+this is my new digital home [rathewolf.com](https://www.rathewolf.com)! (my old site can still be spotted at [rahilpatel.com](https://www.rahilpatel.com))
 
 although this domain contains sites for my digital projects, this site (www...) merely serves as a site map to them.
 
