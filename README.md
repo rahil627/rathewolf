@@ -1,14 +1,11 @@
 ### rathewolf
+this is my new digital home [rathewolf.com](https://www.rathewolf.com)! (my can still be found at [rahilpatel.com](https://www.rahilpatel.com))
 
-this is a simple site for [rathewolf.com](https://www.rathewolf.com)
-
-this is my new site! (my old one was on [rahilpatel.com](https://www.rahilpatel.com))
-
-although the domain contains sites for my digital projects, this site (www...) merely serves as a site map to them.
+although this domain contains sites for my digital projects, this site (www...) merely serves as a site map to them.
 
 it also contains a list of my digital works: my "portfolio". though, theere's a problem with this, as it doesn't contain all of the work i've done outside of this screen, which is, 90% of my works. [todo:] Perhaps a bio / history is needed.
 
-digital projects, including digital organizations / communities will be started here on a sub-domain. If it grows, gets it's own name, it's own identity, it can be moved. I reserved [willowolf.com](https://www.willowolf.com) and [wolfoftheway.com](https://www.wolfoftheway.com as potential places for projects to move to and continue to live on.
+digital projects 'n ideas including digital communities will be born here, on a sub-domain. If it grows, gets it's own name, it's own identity, it can be moved later. I reserved [willowolf.com](https://www.willowolf.com) and [wolfoftheway.com](https://www.wolfoftheway.com as potential places for older projects to move to and continue to live on.
 - - -
 
 ### implementation
