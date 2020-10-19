@@ -29,8 +29,17 @@ this site should be controlled by me, so remember to keep the access restricted!
 
 in the future, just change the `A records` back to my web host's servers, 'n build 'n deploy from my local computer (or web server?).
 
+
 other:
 
+#### discord notes
+when getting the link ("invite"), you have to click on settings / edit so that you can set it to permanent. Otherwise, you'll end up linking temporary links! :/
+
+#### markdown notes
+new lines suck\
+are backslashes at the end of the line standard?
+
+#### to naming
 example:  
 hongry.willowolf  
 the way of fighting games  
