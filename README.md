@@ -33,7 +33,7 @@ in the future, just change the `A records` back to my web host's servers, 'n bui
 other:
 
 #### discord notes
-when getting the link ("invite"), you have to click on settings / edit so that you can set it to permanent. Otherwise, you'll end up linking temporary links! :/
+when getting the link ("invite"), you have to click on settings / edit so that you can set it to permanent. Otherwise, you'll end up linking temporary links! :/ It seems like permanent links are a character longer than temporary ones... [invites docs](https://support.discord.com/hc/en-us/articles/208866998-Invites-101)
 
 #### markdown notes
 new lines suck\
