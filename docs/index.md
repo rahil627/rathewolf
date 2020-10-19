@@ -57,5 +57,3 @@ On this page, you can see what I try to do, how I try to do them, and what I lik
   </ul>
 </div>
 
-## <span id="what_i_try_to_do">What I try to do</span>
-
