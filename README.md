@@ -23,28 +23,6 @@ change name in all writings
 
 other:
 
-#### discord notes
-when getting the link ("invite"), you have to click on settings / edit so that you can set it to permanent. Otherwise, you'll end up linking temporary links! :/ It seems like permanent links are a character longer than temporary ones... [invites docs](https://support.discord.com/hc/en-us/articles/208866998-Invites-101)
-
 #### markdown notes
 new lines suck\
-are backslashes at the end of the line standard?
-
-#### to naming
-example:  
-hongry.willowolf  
-the way of fighting games  
-a fighting game anarchy  
-a digital anarchy centered on fighting games  
-
-willowolf vs wolf of the way
-
-desert.willowolf vs fg.willowolf
-  - desert creates a distinct type and image of a willowolf, whereas fg directly tells what the project is about
-  - * i really don't like that OSs use this kind of naming convention. Mac OS's snow leapord or Ubuntu's gazelle has nothing to do with the product, except associate an image. Does desert willowolf do more? Or is it just a lame mascot?
-  - fg.willowolf, the willowolf of fighting games, makes sense, similar to fighting games way of the wolf (fg.wayofthewolf). thus, desert willowolf does indeed feel like an extraneous mascot
-  - can use domain redirects (or even aliases! ...but shouldn't)
-
-fg.willowolf.com, redirects: desert, fight, fighting, fightinggames  
-eg.willowolf.com, redirects: forest, experiment, experimental, experimentalgames  
-ng.willowolf.com, redirects: mountain, nature, natural, naturesguardians, dao  
+are backslashes at the end of the line really not a good idea?
