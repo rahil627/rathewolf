@@ -20,17 +20,6 @@ can keep notes that affect all of the sub-domain sites here
 
 todo:
 change name in all writings  
-the current image for this repo is kinda creepy...
-
-[kind].willowolf, is the name of product 'n logo  
-the way of [type], is the title  
-a [type] anarchy, is the sub-title / description
-
-notes:
-this site should be controlled by me, so remember to keep the access restricted!
-
-in the future, just change the `A records` back to my web host's servers, 'n build 'n deploy from my local computer (or web server?).
-
 
 other:
 
