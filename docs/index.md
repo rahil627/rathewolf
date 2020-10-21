@@ -2,7 +2,9 @@ Rawrrrr!!~~
 
 ...
 
-not scared?...
+not scared?
+
+...
 
 huh
 
@@ -19,9 +21,9 @@ there are strange marks all over the place, on all kinds of surfaces
 
 [rahil's site](https://rahilpatel.com)  
 [the mind of ra the wolf](https://mind.rathewolf.com)  
-[rathewolf's fighting game anarchy](https://fga.rathewolf.com)  
-[rathewolf's experimental game anarchy](https://ega.rathewolf.com)  
-[rathewolf's nature's guardians anarchy](https://nga.rathewolf.com)  
+[rathewolf's fighting game anarchy](https://fga.willowolf.com)  
+[rathewolf's experimental game anarchy](https://ega.willowwolf.com)  
+[rathewolf's nature's guardians anarchy](https://nga.willowwolf.com)  
 - - -
 
 ### notes
