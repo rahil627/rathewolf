@@ -21,9 +21,9 @@ there are strange marks all over the place, on all kinds of surfaces
 
 [rahil's site](https://rahilpatel.com)  
 [the mind of ra the wolf](https://mind.rathewolf.com)  
-[rathewolf's fighting game anarchy](https://fga.willowolf.com)  
-[rathewolf's experimental game anarchy](https://ega.willowwolf.com)  
-[rathewolf's nature's guardians anarchy](https://nga.willowwolf.com)  
+[willowolf's fighting game anarchy](https://fga.willowolf.com)  
+[willowolf's experimental game anarchy](https://ega.willowwolf.com)  
+[willowolf's nature's guardians anarchy](https://nga.willowwolf.com)  
 - - -
 
 ### notes
