@@ -20,10 +20,10 @@ just don't mess with anything!
 there are strange marks all over the place, on all kinds of surfaces 
 
 [rahil's site](https://rahilpatel.com)  
-[the mind of ra the wolf](https://mind.rathewolf.com)  
-[willowolf's fighting game anarchy](https://fga.willowolf.com)  
-[willowolf's experimental game anarchy](https://ega.willowwolf.com)  
-[willowolf's nature's guardians anarchy](https://nga.willowwolf.com)  
+[the mind of ra the wolf](https://rathewolf.com/mind)  
+[the way of fighting games, a willowolf)](https://willowolf.com/fga)  
+[the way of experimental games, a willowolf](https://willowolf.com/ega)  
+[nature's guardians anarchy, a willowolf](https://willowolf.com/nga)  
 - - -
 
 ### notes
