@@ -19,18 +19,18 @@ just don't mess with anything!
 ### strange marks
 there are strange marks all over the place, on all kinds of surfaces 
 
-[rahil's site](https://rahilpatel.com)  
-[the mind of ra the wolf](https://rathewolf.com/mind)  
-[the way of fighting games, a willowolf)](https://willowolf.com/fga)  
-[the way of experimental games, a willowolf](https://willowolf.com/ega)  
-[nature's guardians anarchy, a willowolf](https://willowolf.com/nga)  
+[rahil's site](https://rahilpatel.com), my first web-site, kept since 2005?
+[the mind of rathewolf](https://mind.rathewolf.com), reserved as a place for my philosophies, my language: my mind
+[the way of fighting games: a willowolf)](https://fga.willowolf.com), a digital community space focused on fighting games  
+[the way of experimental games: a willowolf](https://ega.willowolf.com), a digital community space focused on experimental games
+[the way of nature's guardian: a willowolf](https://nga.willowolf.com), a digital community space focused on the true way to live: with nature, slowly, uncivilized
 - - -
 
 ### notes
 maybe should just include the portfolio here, so everything is on one page
 
 
-### first section of my old site
+### first section of my old web-site
 Herro. I&#8217;m Rahil. And this is my digital room.
 
 It&#8217;s kinda like my actual bed-room: an organized mess. On this site you can see [things I&#8217;ve made](http://www.rahilpatel.com/blog/portfolio), [organized things I&#8217;ve written](http://www.rahilpatel.com/blog/valuable-things-ive-written), [things I&#8217;ve recently written](http://www.rahilpatel.com/blog/blog), and even [more things](http://www.rahilpatel.com/blog/archives)&#8230; One day I’m going to add some rooms, one for [my spirit](http://wolf.rahilpatel.com) and one for my [my will](http://will.rahilpatel.com)!
