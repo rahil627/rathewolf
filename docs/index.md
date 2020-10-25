@@ -19,11 +19,11 @@ just don't mess with anything!
 ### strange marks
 there are strange marks all over the place, on all kinds of surfaces 
 
-[rahil's site](https://rahilpatel.com), my first web-site, kept since 2005?
-[the mind of rathewolf](https://mind.rathewolf.com), reserved as a place for my philosophies, my language: my mind
+[rahil's site](https://rahilpatel.com), my first web-site, kept since 2005?  
+[the mind of rathewolf](https://mind.rathewolf.com), reserved as a place for my philosophies, my language: my mind  
 [the way of fighting games: a willowolf)](https://fga.willowolf.com), a digital community space focused on fighting games  
-[the way of experimental games: a willowolf](https://ega.willowolf.com), a digital community space focused on experimental games
-[the way of nature's guardian: a willowolf](https://nga.willowolf.com), a digital community space focused on the true way to live: with nature, slowly, uncivilized
+[the way of experimental games: a willowolf](https://ega.willowolf.com), a digital community space focused on experimental games  
+[the way of nature's guardian: a willowolf](https://nga.willowolf.com), a digital community space focused on the true way to live: with nature, slowly, uncivilized  
 - - -
 
 ### notes
