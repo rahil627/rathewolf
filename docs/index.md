@@ -22,7 +22,7 @@
 
 [rahil's notepad](https://rahilpatel.com), my first web-site, since circa 2005(?)  
   - [my "resume"](https://rahilpatel.com/resume), more like a history of my life
-  - [my early portfolio](https://rahilpatel.com/portfolio), lists my old digital works and my early writings; extremely limited given i haven't done much digital work nor even much writing for many years now
+  - [my early portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings; extremely limited given i haven't done much digital work nor even much writing for many years now
   - [things i've written](https://rahilptel.com/blog/things-ive-written), some of my early writings 'n philosophies
 
 future projects:  
