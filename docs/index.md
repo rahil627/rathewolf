@@ -37,8 +37,6 @@ Herro. I'm Rahil. And this is my digital room.
 
 It&#8217;s kinda like my actual bed-room: an organized mess. On this site you can see [things I&#8217;ve made](http://www.rahilpatel.com/blog/portfolio), [organized things I&#8217;ve written](http://www.rahilpatel.com/blog/valuable-things-ive-written), [things I&#8217;ve recently written](http://www.rahilpatel.com/blog/blog), and even [more things](http://www.rahilpatel.com/blog/archives)&#8230; One day I’m going to add some rooms, one for [my spirit](http://wolf.rahilpatel.com) and one for my [my will](http://will.rahilpatel.com)!
 
-_Note:_ I’ve been out of the digital world for several years. During that time, I’ve lost my server twice and very-likely lost my hard-drives too; When I hastily recovered this site, I used the latest version of software, a 4 year difference, so, beware of site problems.
-
 On this page, you can see what I try to do, how I try to do them, and what I like or like to do.
 
 <div id="toc_container" class="toc_transparent have_bullets">
