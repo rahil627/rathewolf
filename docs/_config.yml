@@ -3,4 +3,4 @@
 remote_theme: jekyll/minima # force to get the theme remotely, in case GitHub's version is old
 
 minima:
-  skin: solarized #dark
+  skin: dark #solarized #dark
