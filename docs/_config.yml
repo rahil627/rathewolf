@@ -3,4 +3,4 @@
 remote_theme: jekyll/minima
 
 minima:
-  skin: dark #solarized
+  skin: solarized #dark
