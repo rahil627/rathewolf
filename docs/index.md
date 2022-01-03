@@ -21,9 +21,9 @@
 
 
 [rahil's notepad](https://rahilpatel.com), my first web-site, since circa 2005(?)  
-- [resume](https://rahilpatel.com/portfolio), more like a history of my life
-- [portfolio of digital works](https://rahilpatel.com/portfolio), extremely limited given i haven't done digital work for nearly a decade
-- [writings](blog/valuable-things-ive-written), my early writings 'n philosophies
+  - [resume](https://rahilpatel.com/portfolio), more like a history of my life
+  - [portfolio of digital works](https://rahilpatel.com/portfolio), extremely limited given i haven't done digital work for nearly a decade
+  - [writings](blog/valuable-things-ive-written), my early writings 'n philosophies
 
 future projects:  
 [the mind of rathewolf](https://mind.rathewolf.com), a place for my philosophies, my language: my mind  
