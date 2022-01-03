@@ -1,23 +1,23 @@
-Rawrrrr!!~~
+*Rawrrrr!!~~*
 
 ...
 
-not scared?
+*not scared?*
 
 ...
 
-huh
+*huh*
 
-how did you get here!?  
+*how did you get here!?*  
 .  
 .  
 .  
-well, okay... just don't mess with anything!
+*well, okay... just don't mess with anything!*
 - - -
 
 
 ### strange marks
-there are strange marks all over the place, on all kinds of surfaces 
+*there are strange marks all over the place, on all kinds of surfaces* 
 
 [rahil's notepad](https://rahilpatel.com), my first web-site, kept since 2005?  
 
