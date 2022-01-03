@@ -19,7 +19,7 @@
 ### strange marks
 *there are strange marks all over the place, on all kinds of surfaces* 
 
-[rahil's notepad](https://rahilpatel.com), my first web-site, kept since 2005?  
+[rahil's notepad](https://rahilpatel.com), my first web-site, since circa 2005(?)  
 
 future projects:  
 [the mind of rathewolf](https://mind.rathewolf.com), a place for my philosophies, my language: my mind  
