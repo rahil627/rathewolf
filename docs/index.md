@@ -24,9 +24,13 @@
   - [things i've written](https://rahilptel.com/blog/things-ive-written), some of my early writings 'n philosophies
 
 future projects:  
-[the mind of rathewolf](https://mind.rathewolf.com), a new home for my philosophies, my language: my mind  
-the body of rathewolf, a home for my photos
-the soul of rathewolf, ???
+rathewolf (this site!), my new digital home
+  - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies, my language: my mind  
+    - [todo: mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving.]
+  - the body of rathewolf, a digital home for my photos 'n videos
+  - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
+  - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
+
 [willowolf](https://willowolf.com), my wills; paths, directions
   - [the way of fighting games: a willowolf](https://willowolf.com/fga), a digital community space focused on fighting games  
   - [the way of experimental games: a willowolf](https://willowolf.com/ega), a digital community space focused on experimental games  
