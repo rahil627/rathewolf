@@ -31,7 +31,7 @@ future projects:
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
 
-[willowolf](https://willowolf.com), my wills; paths, directions, *desires*
-  - [the way of fighting games: a willowolf](https://willowolf.com/fga), a digital community space focused on fighting games  
-  - [the way of experimental games: a willowolf](https://willowolf.com/ega), a digital community space focused on experimental games  
-  - [the way of nature's guardian: a willowolf](https://willowolf.com/nga), a digital community space focused on the true way to live: with nature, slowly, uncivilized  
+[willowolf](https://willowolf.com) (willowolves?), my wills; paths, directions, *desires*
+  - [the way of fighting games](https://willowolf.com/fga), a digital community space focused on fighting games  
+  - [the way of experimental games](https://willowolf.com/ega), a digital community space focused on experimental games  
+  - [the way of nature's guardian](https://willowolf.com/nga), a digital community space focused on the true way to live: with nature, slowly, uncivilized  
