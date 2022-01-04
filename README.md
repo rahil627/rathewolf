@@ -17,6 +17,9 @@ www.wolfoftheway.com is reserved... for the heck of it!
 # notes
 can keep notes that affect all of the sub-domain sites here
 
+style:
+the style of this site is akin to a generic youthful protagonist character from a JRPG, the voice at least... The colors 'n art shuold be colorful vector art, made with a tablet: bold outlines, bold colors, simple.
+
 todo:  
 
 other:
