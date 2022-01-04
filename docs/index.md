@@ -25,6 +25,7 @@
 
 future projects:  
 [the mind of rathewolf](https://mind.rathewolf.com), a new home for my philosophies, my language: my mind  
-[the way of fighting games: a willowolf](https://willowolf.com/fga), a digital community space focused on fighting games  
-[the way of experimental games: a willowolf](https://willowolf.com/ega), a digital community space focused on experimental games  
-[the way of nature's guardian: a willowolf](https://willowolf.com/nga), a digital community space focused on the true way to live: with nature, slowly, uncivilized  
+[willowolf](https://willowolf.com), my wills; paths, directions
+  - [the way of fighting games: a willowolf](https://willowolf.com/fga), a digital community space focused on fighting games  
+  - [the way of experimental games: a willowolf](https://willowolf.com/ega), a digital community space focused on experimental games  
+  - [the way of nature's guardian: a willowolf](https://willowolf.com/nga), a digital community space focused on the true way to live: with nature, slowly, uncivilized  
