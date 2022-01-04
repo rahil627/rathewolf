@@ -24,7 +24,7 @@
   - [things i've written](https://rahilptel.com/blog/things-ive-written), some of my early writings 'n philosophies
 
 future projects:  
-[rathewolf](https://rathewolf.com] (this site!), my new digital home
+[rathewolf](https://rathewolf.com), my new digital home (*this* site!!)
   - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies, my language: my mind  
     - [todo: mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving.]
   - the body of rathewolf, a digital home for my photos 'n videos
