@@ -26,7 +26,7 @@
 future projects:  
 [rathewolf](https://rathewolf.com), my new digital home (*this* site!!)
   - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies, my language: my mind  
-    - [todo: mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving.]
+    - [todo: mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving. The soul is the life or the spirit of a person.]
   - the body of rathewolf, a digital home for my photos 'n videos
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
