@@ -1,11 +1,9 @@
+# theme: jekyll-theme-merlot
+remote_theme: jekyll/minima # force to get the theme remotely, in case GitHub's version is old
+
 # title: rathewolf # fetches from repo project name
 # description: ? # fetches from the about section of the repo
 
-# theme: jekyll-theme-merlot
-
-remote_theme: jekyll/minima # force to get the theme remotely, in case GitHub's version is old
-
-# theme specific stuff
 minima:
   skin: solarized #dark # solarized has a book-like texture
   facebook: rahil627
