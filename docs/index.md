@@ -1,6 +1,6 @@
 ---
-title: a mountain-side burrow
-layout: page
+# title: a mountain-side burrow
+layout: page #page uses the 'title' value and puts it in the navigation bar and header
 ---
 
 *Rawrrrr!!*~~  
