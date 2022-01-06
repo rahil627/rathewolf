@@ -1,3 +1,8 @@
+---
+title: a mountain-side burrow
+layout: page
+---
+
 *Rawrrrr!!*~~  
 
 *...not scared? ... huh .. how did you get here!?*  
