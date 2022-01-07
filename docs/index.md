@@ -10,8 +10,8 @@
 *... wellll, okay. just don't mess with anything!*  
 
 *there are strange marks all over the place, on all kinds of surfaces...*
-### strange marks 
 ---
+### strange marks 
 [rahil's notepad](https://rahilpatel.com), my first web-site, since circa 2005(?)  
   - [my "resume"](https://rahilpatel.com/resume), more like a history of my life now..
   - [my early portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings
