@@ -5,7 +5,7 @@ remote_theme: jekyll/minima # force to get the theme remotely, in case GitHub's 
 # description: ? # fetches from the about section of the repo
 
 minima:
-  skin: solarized #dark # solarized has a book-like texture
+  skin: solarized # has a book-like texture
   facebook: rahil627
   
   author:
