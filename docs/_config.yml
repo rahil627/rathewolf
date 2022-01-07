@@ -6,7 +6,7 @@ remote_theme: jekyll/minima # force to get the theme remotely, in case GitHub's 
 
 minima:
   skin: solarized # has a book-like texture
-  facebook: rahil627
+  facebook: rahil627 # where is this?
   
   author:
     name: rahil627
