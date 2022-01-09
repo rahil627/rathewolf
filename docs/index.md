@@ -26,7 +26,7 @@ future projects:
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
 
-[willowolf](https://willowolf.com), willowolves: my wills; paths, directions, *desires*, ideals
+[willowolf](https://willowolf.com): my wills; paths, directions, *desires*, ideals, my willowolves
   - [fighting game anarchy: the art & way of fighting games](https://fighting.willowolf.com), a project and digital communal space passionate about fighting games, especially r&d
   - [experimental game anarchy: the art & way of experimental games](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
   - [nature's guardians: the natural way of life](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
