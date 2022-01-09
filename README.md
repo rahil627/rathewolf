@@ -17,6 +17,10 @@ www.wolfoftheway.com is reserved... for the heck of it!
 # notes
 can keep notes that affect all of the sub-domain sites here
 
+naming:
+mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving. The soul is the life or the spirit of a person.]
+
+
 style:
 the style of this site is akin to a generic youthful protagonist character from a JRPG, the voice at least... The colors 'n art shuold be colorful vector art, made with a tablet: bold outlines, bold colors, simple.
 
