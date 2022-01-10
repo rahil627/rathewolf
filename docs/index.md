@@ -33,8 +33,6 @@
   
 ![](assets/images/expressionless.jpg?raw=true)
 
----
-
 todo:  
 rathewolf
   - the body of rathewolf, a digital home for my photos 'n videos
