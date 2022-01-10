@@ -29,11 +29,10 @@
   - [experimental game anarchy: *the art 'n way of experimental games*](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
   - [nature's guardians anarchy: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
   
-  
+![](assets/images/expressionless.jpg?raw=true)
+    
 todo:  
 rathewolf
   - the body of rathewolf, a digital home for my photos 'n videos
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
-
-![](assets/images/expressionless.jpg?raw=true)
