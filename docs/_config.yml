@@ -4,7 +4,7 @@ remote_theme: rahil627/minima-custom-jekyll-theme # i won't ever rememeber to up
 
 # standard vars
 # title: rathewolf # fetches from repo project name
-# description: ? # fetches from the about section of the repo
+# description: ? # fetches from the repo's about section
 
 # theme vars
 minima:
