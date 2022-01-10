@@ -8,6 +8,10 @@ remote_theme: rahil627/minima-custom-jekyll-theme # i won't ever rememeber to up
 
 # theme vars
 minima:
+  plugins:
+  # - jekyll-feed # i took this out
+   - jekyll-seo-tag
+
   skin: solarized # has a book-like texture
   facebook: rahil627 # where is this?
   
