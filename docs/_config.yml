@@ -15,5 +15,6 @@ minima:
     name: rahil627 # does this go to seo?
 
 # custom theme vars
+center: false
 footer:
   left: poop.
