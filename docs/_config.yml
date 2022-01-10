@@ -19,6 +19,6 @@ minima:
   facebook: rahil627 # where is this?
 
 # custom theme vars
-dont-center-everything: true
+#text-align: inherit
 footer:
   left: poop.
