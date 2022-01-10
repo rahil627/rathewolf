@@ -2,6 +2,8 @@ welcome to...
 # rathewolf
 my new digital home!
 
+![](assets/images/knee-animation-hitbox.gif?raw=true)
+
 my old site can still be spotted at www.rahilpatel.com
 
 although this site (rathewolf.com) contains a bunch of other web-sites for my digital projects, *this* site, www.., merely serves as a site map to them.
