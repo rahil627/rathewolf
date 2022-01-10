@@ -5,8 +5,6 @@
 
 *Rawrrrr!!*~~  
 
-![](assets/images/expressionless.jpg?raw=true)
-
 *...not scared? ... huh .. how did you get here!?*  
   
 *... wellll, okay. just don't mess with anything!*  
@@ -37,3 +35,5 @@ rathewolf
   - the body of rathewolf, a digital home for my photos 'n videos
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
+
+![](assets/images/expressionless.jpg?raw=true)
