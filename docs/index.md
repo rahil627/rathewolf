@@ -1,6 +1,6 @@
 ---
 #title: a mountain-side burrow #adding a'title' value and puts it in the h1, nav bar, and seo
-#layout: page
+#layout: default
 ---
 
 *Rawrrrr!!*~~  
