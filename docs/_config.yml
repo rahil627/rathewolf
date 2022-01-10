@@ -19,6 +19,6 @@ minima:
   facebook: rahil627 # where is this?
 
 # custom theme vars
-center-everything: true
+center-everything: false
 footer:
   left: poop.
