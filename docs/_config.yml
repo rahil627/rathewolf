@@ -12,10 +12,11 @@ minima:
    - jekyll-seo-tag
 
   skin: solarized # has a book-like texture
-  facebook: rahil627 # where is this?
   
   author:
     name: rahil627 # does this go to seo?
+    
+  facebook: rahil627 # where is this?
 
 # custom theme vars
 center-everything: false
