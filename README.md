@@ -2,7 +2,7 @@ welcome to...
 # rathewolf
 my new digital home!
 
-![](assets/images/knee-animation-hitbox.gif?raw=true)
+![](docs/assets/images/expressionless.gif?raw=true)
 
 my old site can still be spotted at www.rahilpatel.com
 
