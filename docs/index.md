@@ -5,6 +5,8 @@
 
 *Rawrrrr!!*~~  
 
+![](assets/images/expressionless.jpg?raw=true)
+
 *...not scared? ... huh .. how did you get here!?*  
   
 *... wellll, okay. just don't mess with anything!*  
