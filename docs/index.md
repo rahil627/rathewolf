@@ -5,6 +5,8 @@
 
 *Rawrrrr!!*~~  
 
+![](assets/images/beat-up.jpg?raw=true)
+
 *...not scared? ... huh .. how did you get here!?*  
   
 *... wellll, okay. just don't mess with anything!*  
