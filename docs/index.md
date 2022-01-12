@@ -2,6 +2,7 @@
 #title: a mountain-side burrow #adding a'title' value and puts it in the h1, nav bar, and seo
 #layout: default
 #![](assets/images/beat-up.jpg?raw=true)
+![](assets/images/expressionless.jpg?raw=true)
 ---
 *Rawrrrr!!*~~  
 
@@ -31,8 +32,6 @@
   - [nature's guardians anarchy: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
   
 ---
-  
-![](assets/images/expressionless.jpg?raw=true)
 
 todo:  
 rathewolf
