@@ -3,7 +3,6 @@
 #layout: default
 #![](assets/images/beat-up.jpg?raw=true)
 ---
-<div style="text-align: center">
 *Rawrrrr!!*~~  
 
 <img src="assets/images/beat-up.jpg" height="200"/>
@@ -13,7 +12,6 @@
 *... wellll, okay. just don't mess with anything!*  
 
 *there are strange marks all over the place, on all kinds of surfaces...*
-</div>
 ---
 
 ### strange marks 
