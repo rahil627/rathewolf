@@ -1,11 +1,12 @@
 ---
 #title: a mountain-side burrow #adding a'title' value and puts it in the h1, nav bar, and seo
 #layout: default
+#![](assets/images/beat-up.jpg?raw=true)
 ---
 
 *Rawrrrr!!*~~  
 
-![](assets/images/beat-up.jpg?raw=true)
+<img src="assets/images/beat-up.jpg" height="200"/>
 
 *...not scared? ... huh .. how did you get here!?*  
   
