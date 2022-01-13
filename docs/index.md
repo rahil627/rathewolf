@@ -5,7 +5,7 @@
 ![](assets/images/expressionless.jpg?raw=true)
 # <img src="assets/images/beat-up.jpg" height="200"/>
 ---
-<div class="center" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 *Rawrrrr!!*~~  
 
