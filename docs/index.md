@@ -34,7 +34,7 @@
 [willowolf](https://willowolf.com), paths, directions, *desires*, ideals: my wills, my willowolves
   - [conceptual fighting: *the art 'n way of fighting games*](https://fighting.willowolf.com), a project and digital communal space passionate about fighting games, especially r&d
   - [saturn valley: *the art 'n way of experimental games*](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
-  - [nature's guardians: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
+  - [gorge's guardians: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
   
 ---
 
