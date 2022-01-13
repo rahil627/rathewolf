@@ -6,6 +6,7 @@
 # <img src="assets/images/beat-up.jpg" height="200"/>
 ---
 <div class="center", markdown="1">
+
 *Rawrrrr!!*~~  
 
 ![](assets/images/expressionless.jpg?raw=true)
@@ -13,6 +14,7 @@
 *...not scared? ... huh .. how did you get here!?*  
 *... wellll, okay. just don't mess with anything!*  
 *there are strange marks all over the place, on all kinds of surfaces...*
+
 </div>
 
 ---
