@@ -22,15 +22,13 @@
   - [my early portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings
   - [things i've written](https://rahilpatel.com/blog/things-ive-written), contains many of my early writings 'n philosophies
   
-  
 [rathewolf](https://rathewolf.com), my new digital home (*this* site)
   - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies, my language: my mind  
   
-  
 [willowolf](https://willowolf.com), paths, directions, *desires*, ideals: my wills, my willowolves
-  - [fighting game anarchy: *the art 'n way of fighting games*](https://fighting.willowolf.com), a project and digital communal space passionate about fighting games, especially r&d
-  - [experimental game anarchy: *the art 'n way of experimental games*](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
-  - [nature's guardians anarchy: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
+  - [conceptual fighting: *the art 'n way of fighting games*](https://fighting.willowolf.com), a project and digital communal space passionate about fighting games, especially r&d
+  - [saturn valley: *the art 'n way of experimental games*](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
+  - [nature's guardians: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
   
 ---
 
