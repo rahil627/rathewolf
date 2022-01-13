@@ -13,8 +13,9 @@
 
 *...not scared? ... huh .. how did you get here!?*  
 *...*  
-*...wellll, okay. just don't mess with anything!...*  
-*there are strange marks all over the place, on all kinds of surfaces:*
+*...wellll, okay. just don't mess with anything!*  
+*...*
+*there are strange marks all over the place, on all kinds of surfaces...*
 
 </div>
 
