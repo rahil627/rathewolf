@@ -11,12 +11,12 @@ minima:
   plugins:
    - jekyll-seo-tag
 
-  skin: solarized # has a book-like texture
+  skin: solarized #has a book-like texture
   
   author:
-    name: rahil627 # does this go to seo?
+    name: rahil627 #does this go to seo?
     
-  facebook: rahil627 # where is this?
+  facebook: rahil627 #where is this?
 
 # custom theme vars
 #text-align: inherit
