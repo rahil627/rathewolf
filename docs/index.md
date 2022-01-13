@@ -24,8 +24,8 @@
 ### strange marks
 
 [rahil's notepad](https://rahilpatel.com), my first web-site, since circa 2005(?)  
-  - [my "resume"](https://rahilpatel.com/resume), more like a history of my life now..
-  - [my early portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings
+  - [my "resume"](https://mind.rathewolf.com/resume), more like a history of my life now.. [on my old site](https://rahilpatel.com/portfolio)
+  - [my portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings; [on my old site](https://rahilpatel.com/portfolio)
   - [things i've written](https://rahilpatel.com/blog/things-ive-written), contains many of my early writings 'n philosophies
   
 [rathewolf](https://rathewolf.com), my new digital home (*this* site)
