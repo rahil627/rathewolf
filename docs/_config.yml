@@ -19,6 +19,6 @@ minima:
   facebook: rahil627 #where is this?
 
 # custom theme vars
-#text-align: inherit
+#text-align: inherit #this is a better idea: just set variables from here
 footer:
   left: poop.
