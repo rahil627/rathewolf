@@ -1,6 +1,6 @@
 #theme: jekyll-theme-merlot # limited to pre-installed themes by github pages
 #remote_theme: jekyll/minima # force to get the theme remotely, in case github's version is old
-remote_theme: rahil627/minima-jekyll-theme-customized # i won't ever rememeber to update my forked version :(
+remote_theme: rahil627/minima-customized # i won't ever rememeber to update my forked version :(
 
 # standard vars
 # title: rathewolf # fetches from repo project name
