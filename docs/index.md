@@ -41,6 +41,11 @@
 
 todo:
 rathewolf
+  - the mind of rathewolf
+    - edited / complete writings category
+    - writings category
+    - thoughts category
+    - ideas category
   - the body of rathewolf, a digital home for my photos 'n videos
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the worl
