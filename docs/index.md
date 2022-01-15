@@ -2,7 +2,6 @@
 #title: a mountain-side burrow #adding a'title' value and puts it in the h1, nav bar, and seo
 #layout: default
 #![](assets/images/beat-up.jpg?raw=true)
-![](assets/images/expressionless.jpg?raw=true)
 # <img src="assets/images/beat-up.jpg" height="200"/>
 ---
 <div style="text-align: center;" markdown="1">
