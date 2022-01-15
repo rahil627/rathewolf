@@ -44,6 +44,8 @@ rathewolf
   - the body of rathewolf, a digital home for my photos 'n videos
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
   - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the worl
+  - rahil's notepad, a copy of my old site, but on this domain
+  - notepad (working title), a digital home for my notes files (different from my more meaningful philosophical writings, more public-oriented, and should be sepeerate from my more serious 'mind of rathewolf')
 
 willowolf
   - philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
