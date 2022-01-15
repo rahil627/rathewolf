@@ -8,7 +8,7 @@ remote_theme: rahil627/minima-customized # i won't ever rememeber to update my f
 
 # theme vars
 minima:
-  skin: book # my custom skin
+  skin: notepad # my custom skin
   
   author:
     name: rahil627 #does this go to seo?
