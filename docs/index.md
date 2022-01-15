@@ -42,6 +42,7 @@
 todo:
 rathewolf
   - the mind of rathewolf
+    - no folders, all in one folder, sorted by date
     - edited / complete writings category
     - writings category
     - thoughts category
