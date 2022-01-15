@@ -32,9 +32,9 @@
     - [my portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings; [on my old site too](https://rahilpatel.com/portfolio)  
   
 [willowolf](https://willowolf.com), paths, directions, *desires*, ideals: my wills, my willowolves
-  - [conceptual fighting: *the art 'n dao of fighting games*](https://fighting.willowolf.com), a project and digital communal space passionate about fighting games, especially r&d
-  - [saturn valley: *the art 'n dao of experimental games*](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
   - [gorge's guardians: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
+  - [saturn valley: *the dao of experimental games*](https://experimental.willowolf.com), a project and digital communal space passionate about experimental games, especially new art mediums  
+  - [conceptual fighting: *the dao of fighting games*](https://fighting.willowolf.com), a project and digital communal space passionate about fighting games, especially r&d
   
 ---
 
