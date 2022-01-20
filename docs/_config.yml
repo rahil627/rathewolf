@@ -18,9 +18,4 @@ minima:
 #text-align: inherit #this is a better idea: just set variables from here
 footer:
   left: poop.
-
-# other vars
-# convert newlines properly
-kramdown:
-  input: GFM
-  hard_wrap: true
+  
