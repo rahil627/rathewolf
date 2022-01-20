@@ -10,10 +10,10 @@
 
 ![](assets/images/expressionless.jpg?raw=true)
 
-*...not scared? ... huh .. how did you get here!?*  
-*...*  
-*...wellll, okay. just don't mess with anything!*  
-*...*  
+*...not scared? ... huh .. how did you get here!?*
+*...*
+*...wellll, okay. just don't mess with anything!*
+*...*
 *yeah, i know it's a mess! i just moved in!!*
 
 *there are strange marks all over the place, on all kinds of surfaces...*
