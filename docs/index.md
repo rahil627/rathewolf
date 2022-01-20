@@ -30,7 +30,7 @@
 [rathewolf](https://rathewolf.com), my new digital home (*this* site)
   - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies, my language: my mind  
     - [my "resume"](https://mind.rathewolf.com/resume), more like a history of my life now.. [on my old site too](https://rahilpatel.com/resume)
-    - [my portfolio](https://rahilpatel.com/portfolio), lists my early digital works and my early writings; [on my old site too](https://rahilpatel.com/portfolio)  
+    - [my portfolio](https://mind.rathewolf.com/portfolio), lists my early digital works and my early writings; [on my old site too](https://rahilpatel.com/portfolio)  
   
 [willowolf](https://willowolf.com), paths, directions, *desires*, ideals: my wills, my willowolves
   - [gorge's guardians: *the natural way of life*](https://natural.willowolf.com/), a project and digital communal space passionate about the natural way to live, with nature, slowly, uncivilized  
