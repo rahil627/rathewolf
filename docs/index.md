@@ -39,7 +39,7 @@
   
 ---
 
-todo:
+todo:  
 rathewolf
   - the mind of rathewolf
     - no folders, all in one folder, sorted by date
@@ -58,3 +58,14 @@ willowolf
   - philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
   - gorge's guardians
     - most of my focus should be on projects for these people
+
+apps?
+  - markdown writer (mobile)
+    - code editor (mobile)
+    - ebook reader (mobile)
+      - mobile web-feed reader? (mobile)
+  - jrpg text writer, displayer, 'n platform
+  - battle games (local multiplayer)
+  - iPad games (local multiplayer)
+
+ugh, wayyy too much to do :( i'd rather just ride my motorcycle 'n sip some tea :)
