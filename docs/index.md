@@ -40,6 +40,7 @@
 ---
 
 todo:  
+just a fraction of projects 'n ideas:  
 rathewolf
   - the mind of rathewolf
     - no folders, all in one folder, sorted by date
@@ -47,25 +48,28 @@ rathewolf
     - writings category
     - thoughts category
     - ideas category
-  - the body of rathewolf, a digital home for my photos 'n videos
+  - **the body of rathewolf, a digital home for my photos 'n videos**
   - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
-  - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the worl
+  - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world
   - rahil's notepad, a copy of my old site, but on this domain
   - notepad (working title), a digital home for my notes files (very much like github's gists, note on *everything*, different from my more meaningful philosophical writings, more public-oriented, and should be separate from my more serious 'mind of rathewolf')
-    - make a parser for my original notes syntax (that i've used since i was a child), now that's a pretty cool project! :), maybe can use haXe!
+    - make a parser for my original notes syntax (that i've used since i was a child), now that's a pretty cool project! :), jekyll provides a way, but maybe can also write a tiny haXe script for general use!
 
 willowolf
   - philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
   - gorge's guardians
-    - most of my focus should be on projects for these people
+    - **most of my focus should be on projects for these people*
+
+games
+  - **battle games** (local multiplayer)
+  - iPad battle 'n party games (local multiplayer)
 
 apps?
-  - markdown writer (mobile)
+  - **markdown writer** (mobile)
     - code editor (mobile)
     - ebook reader (mobile)
-      - mobile web-feed reader? (mobile)
-  - jrpg text writer, displayer, 'n platform
-  - battle games (local multiplayer)
-  - iPad games (local multiplayer)
+      - **web-feed reader?** (mobile)
+  - **jrpg text writer, displayer, 'n platform**
+
 
 ugh, wayyy too much to do :( i'd rather just ride my motorcycle 'n sip some tea :)
