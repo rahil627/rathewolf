@@ -1,7 +1,6 @@
 ---
 #title: a mountain-side burrow #adding a'title' value and puts it in the h1, nav bar, and seo
 #layout: default
-#![](assets/images/beat-up.jpg?raw=true)
 # <img src="assets/images/beat-up.jpg" height="200"/>
 ---
 <div style="text-align: center;" markdown="1">
@@ -61,12 +60,12 @@ willowolf
     - **most of my focus should be on projects for these people*
 
 games
-  - **battle games** (local multiplayer)
+  - **battle games**, **battle game maker** (local multiplayer)
   - iPad battle 'n party games (local multiplayer)
 
 apps?
-  - **markdown writer** (mobile)
-    - code editor (mobile)
+  - **markdown writer** for writers (mobile)
+    - x/code editor (mobile)
     - ebook reader (mobile)
       - **web-feed reader?** (mobile)
   - **jrpg text writer, displayer, 'n platform**
