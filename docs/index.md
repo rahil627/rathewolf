@@ -62,7 +62,7 @@ willowolf
 games
   - **battle games** (local multiplayer)
     - **battle game maker** 
-      - [game-making tool-box for Heaps](https://github.com/rahil627/ra)
+      - [game-making tool-box](https://github.com/rahil627/ra)
   - iPad battle 'n party games (local multiplayer)
 
 apps?
