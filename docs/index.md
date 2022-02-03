@@ -60,8 +60,9 @@ willowolf
     - **most of my focus should be on projects for these people*
 
 games
-  - **battle games**, **battle game maker** (local multiplayer)
-    - [game-making tool-box for Heaps](https://github.com/rahil627/ra)
+  - **battle games** (local multiplayer)
+    - **battle game maker** 
+      - [game-making tool-box for Heaps](https://github.com/rahil627/ra)
   - iPad battle 'n party games (local multiplayer)
 
 apps?
