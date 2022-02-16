@@ -1,6 +1,8 @@
 just a stupid file to force github pages to rebuild the site
 
+#333 color font!
 hellveticca
+  - hmmm, maybe it wasn't the font..?
 build me you ninkumpoop!
 nincomepoop
 poo
