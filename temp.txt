@@ -1,3 +1,5 @@
+// just grab the font, body, and background color
+
 html,
 body,
 div,
