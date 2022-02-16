@@ -65,7 +65,7 @@ games
   - **battle games** (local multiplayer)
     - **battle game maker** 
       - [game-making tool-box](https://github.com/rahil627/ra)
-        - ugh, no... just wait until the Luxe engine use C# with Foster or Dinghy
+        - ugh, no... just wait until the Luxe engine, or Dinghy, or try Nez/MonoGame
   - iPad battle 'n party games (local multiplayer)
 
 apps?
