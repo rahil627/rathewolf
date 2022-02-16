@@ -72,7 +72,7 @@ apps?
   - **markdown writer** for writers (mobile)
     - x/code editor (mobile)
     - ebook reader (mobile)
-      - **web-feed reader?** (mobile)
+      - **web-feed reader?** (mobile), ...or maybe just a Discord bot?
   - **jrpg text writer, displayer, 'n platform**
 
 
