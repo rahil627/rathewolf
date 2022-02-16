@@ -59,8 +59,8 @@ willowolf
   - gorge's guardians
     - **most of my focus should be on projects for these people*
 
-games
-note to self: forget the traditional style of making video games and stick to making input interfaces to existing games, and modifying existing games, or combining them? who knows! go back to creative frameworks!! The game engine world is a deep deep rabbit hole! :(
+games  
+*note to self: forget the traditional style of making video games and stick to making input interfaces to existing games, and modifying existing games, or combining them? who knows! go back to creative frameworks!! The game engine world is a deep deep rabbit hole! :(*
 
   - **battle games** (local multiplayer)
     - **battle game maker** 
