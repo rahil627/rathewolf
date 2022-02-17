@@ -26,6 +26,9 @@ mind, heart, soul; are they all the same? not really... the mind is more thinkin
 style:
 the style of this site is akin to a generic youthful protagonist character from a JRPG, the voice at least... The colors 'n art shuold be colorful vector art, made with a tablet: bold outlines, bold colors, simple.
 
+https://pomidori.studio
+   - this simple site's style is aiite too
+
 todo:  
 
 other:
