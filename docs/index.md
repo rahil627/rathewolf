@@ -63,16 +63,17 @@ games
 *note to self: forget the traditional style of making video games and stick to making input interfaces to existing games, and modifying existing games, or combining them? who knows! go back to creative frameworks!! The game engine world is a deep deep rabbit hole! :(*
 
   - **battle games** (local multiplayer)
-    - **battle game maker** 
-      - [game-making tool-box](https://github.com/rahil627/ra)
+    -> **battle game maker** 
+      -> [game-making tool-box](https://github.com/rahil627/ra)
         - ugh, no... just wait until the Luxe engine, or Dinghy, or try Nez/MonoGame
   - iPad battle 'n party games (local multiplayer)
 
 apps?
   - **markdown writer** for writers (mobile)
-    - x/code editor (mobile)
-    - ebook reader (mobile)
-      - **web-feed reader?** (mobile), ...or maybe just a Discord bot?
+    - try [deepdwn](https://billiam.itch.io/deepdwn)
+    -> x/code editor (mobile)
+    -> ebook reader (mobile)
+      - **web-feed reader?** (mobile), vs a Discord bot?
   - **jrpg text writer, displayer, 'n platform**
 
 
