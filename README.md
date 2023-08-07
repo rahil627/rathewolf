@@ -30,7 +30,32 @@ https://pomidori.studio
    - this simple site's style is cute! :)
      - https://pomidori.studio/custom.css
 
+todo: 
+
 todo:  
+just a fraction of projects 'n ideas:  
+rathewolf
+  - the mind of rathewolf
+    - no folders, all in one folder, sorted by date
+    - edited / complete writings category
+    - writings category
+    - thoughts category
+    - ideas category
+  - **the body of rathewolf, a digital home for my photos 'n videos**
+  - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
+  - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world
+  - rahil's notepad, a copy of my old site, but on this domain
+  - notepad (working title), a digital home for my notes files (very much like github's gists, note on *everything*, different from my more meaningful philosophical writings, more public-oriented, and should be separate from my more serious 'mind of rathewolf')
+    - make a parser for my original notes syntax (that i've used since i was a child), now that's a pretty cool project! :), jekyll provides a way, but maybe can also write a tiny haXe script for general use!
+
+willowolf
+  - philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
+  - gorge's guardians
+    - **most of my focus should be on projects for these people*
+
+games  
+*note to self: forget the traditional style of making video games and stick to making input interfaces to existing games, and modifying existing games, or combining them? who knows! go back to creative frameworks!! The game engine world is a deep deep rabbit hole! :(*
+
 
 other:
 #### markdown notes
