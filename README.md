@@ -12,7 +12,7 @@ it also contains a list of my digital works: my "portfolio". The problem with th
 
 www.rathewolf.com is reserved for *personal* digital works: my portfolio will contain most of them, while bigger projects, such as my writing project, will have it's own site (on a sub-domain)
 
-www.willowolf.com is reserved for *public* digital works intended for *the people*: digital community organizations / directions (and their tools: Discord, Disqus, etc.), public digital tools (apps), etc. Communities begin on a sub-domain. If it grows, creates it's own identity, it can be moved later.
+www.willowolf.com (temp: willo.rathewolf) is reserved for *public* digital works intended for *the people*: digital community organizations / directions (and their tools: Discord, Disqus, etc.), public digital tools (apps), etc. Communities begin on a sub-domain. If it grows, creates it's own identity, it can be moved later.
 
 www.wolfoftheway.com is reserved... for the heck of it!
 
