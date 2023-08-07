@@ -33,6 +33,7 @@ https://pomidori.studio
 todo: 
 
 todo:  
+todo:  
 just a fraction of projects 'n ideas:  
 rathewolf
   - the mind of rathewolf
@@ -55,6 +56,23 @@ willowolf
 
 games  
 *note to self: forget the traditional style of making video games and stick to making input interfaces to existing games, and modifying existing games, or combining them? who knows! go back to creative frameworks!! The game engine world is a deep deep rabbit hole! :(*
+
+  - **battle games** (local multiplayer)
+    -> **battle game maker** 
+      -> [game-making tool-box](https://github.com/rahil627/ra)
+        - ugh, no... just wait until the Luxe engine, or Dinghy, or try Nez/MonoGame
+  - iPad battle 'n party games (local multiplayer)
+
+apps?
+  - **markdown writer** for writers (mobile)
+    - try [deepdwn](https://billiam.itch.io/deepdwn)
+    -> x/code editor (mobile)
+    -> ebook reader (mobile)
+      - **web-feed reader?** (mobile), vs a Discord bot?
+  - **jrpg text writer, displayer, 'n platform**
+
+
+ugh, wayyy too much to do :( i'd rather just ride my motorcycle 'n sip some tea :)
 
 
 other:
