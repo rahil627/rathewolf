@@ -19,21 +19,17 @@ www.wolfoftheway.com is reserved... for the heck of it!
 # notes
 can keep notes that affect all of the sub-domain sites here
 
-naming:
-mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving. The soul is the life or the spirit of a person.]
+naming:  
+mind, heart, soul; are they all the same? not really... the mind is more thinking, the soul is more moving, and the heart is more loving. The soul is the life or the spirit of a person.
 
-
-style:
+style:  
 the style of this site is akin to a generic youthful protagonist character from a JRPG, the voice at least... The colors 'n art shuold be colorful vector art, made with a tablet: bold outlines, bold colors, simple.
 
 https://pomidori.studio
    - this simple site's style is cute! :)
      - https://pomidori.studio/custom.css
 
-todo: 
-
-todo:  
-todo:  
+## todo:  
 just a fraction of projects 'n ideas:  
 rathewolf
   - the mind of rathewolf
@@ -42,15 +38,17 @@ rathewolf
     - writings category
     - thoughts category
     - ideas category
-  - **the body of rathewolf, a digital home for my photos 'n videos**
-  - the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)
-  - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world
-  - rahil's notepad, a copy of my old site, but on this domain
+  - **the body of rathewolf, a digital home for my personal photos 'n videos**
+  - **the heart of rathewolf, a digital home for my most beloved things (perhaps like my personal wall of photos: people and places)**
+    - this could be a cool thing to work on as it would help me focus on the most important things in life
+  - the soul of rathewolf, a digital home for the things that move my soul (???, art works?: poetry, Humans of Taiwan, documentaries, the streets, the world)
+  - p/rahil's notepad, a copy of my old site, but on this domain
   - notepad (working title), a digital home for my notes files (very much like github's gists, note on *everything*, different from my more meaningful philosophical writings, more public-oriented, and should be separate from my more serious 'mind of rathewolf')
-    - make a parser for my original notes syntax (that i've used since i was a child), now that's a pretty cool project! :), jekyll provides a way, but maybe can also write a tiny haXe script for general use!
+    - make a parser for my original notes syntax (that i've used since i was a child)
+      - now that's a pretty cool project! :), jekyll provides a way, but can also make a simple one with ruby for general use
 
 willowolf
-  - philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
+  - x/philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
   - gorge's guardians
     - **most of my focus should be on projects for these people*
 
@@ -60,15 +58,15 @@ games
   - **battle games** (local multiplayer)
     -> **battle game maker** 
       -> [game-making tool-box](https://github.com/rahil627/ra)
+      - **play Dreams (the PS4 game)**
         - ugh, no... just wait until the Luxe engine, or Dinghy, or try Nez/MonoGame
   - iPad battle 'n party games (local multiplayer)
 
 apps?
-  - **markdown writer** for writers (mobile)
-    - try [deepdwn](https://billiam.itch.io/deepdwn)
-    -> x/code editor (mobile)
+  - a simple zen-focused **markdown editor** *for* writers (mobile)
+    - **try [deepdwn](https://billiam.itch.io/deepdwn)**
     -> ebook reader (mobile)
-      - **web-feed reader?** (mobile), vs a Discord bot?
+    - **aggregate social-media-feed reader?** (mobile), vs a Discord bot?
   - **jrpg text writer, displayer, 'n platform**
 
 
