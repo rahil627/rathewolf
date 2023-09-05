@@ -17,5 +17,5 @@ minima:
 # custom theme vars
 #text-align: inherit #this is a better idea: just set variables from here
 footer:
-  left: <a href="https://github.com/rahil627/rathewolf">poop</a>
+  left: <a href="https://github.com/rahil627/rathewolf">repo</a>
   
