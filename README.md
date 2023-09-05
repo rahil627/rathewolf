@@ -48,7 +48,8 @@ rathewolf
       - now that's a pretty cool project! :), jekyll provides a way, but can also make a simple one with ruby for general use
 
 willowolf
-  - x/philosowolf, philosophy generally against civilization, toward nature, toward the feminine...
+  - x/philosowolf, philosophy generally against civilization, toward nature, toward the feminine
+    - https://github.com/rahil627/philosowolf
   - gorge's guardians
     - **most of my focus should be on projects for these people*
 
