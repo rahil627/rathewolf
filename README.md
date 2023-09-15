@@ -30,6 +30,8 @@ https://pomidori.studio
      - https://pomidori.studio/custom.css
 
 ## todo:  
+make dead links red and strikethrough ;(
+
 remove header? or center it.
 
 footer left and right become seperated in phone view, how?
