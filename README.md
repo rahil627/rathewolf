@@ -30,6 +30,10 @@ https://pomidori.studio
      - https://pomidori.studio/custom.css
 
 ## todo:  
+remove header? or center it.
+
+footer left and right become seperated in phone view, how?
+
 just a fraction of projects 'n ideas:  
 rathewolf
   - the mind of rathewolf
