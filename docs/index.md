@@ -22,9 +22,8 @@
 ---
 
 ### strange marks
-
-[rahil's notepad](https://rahilpatel.com), my first web-site, since circa 2005(?) *((UPDATE: lost my domain in 2023 :( ))*
-  - [things i've written](https://rahilpatel.com/blog/things-ive-written), contains many of my early thoughts, writings, 'n philosophies  
+[<span style="color:red;">~~rahil's notepad~~</span>](https://rahilpatel.com), my first web-site, since circa 2005(?) *((UPDATE: lost my domain in 2023 :( ))*
+  - [~~things i've written~~](https://rahilpatel.com/blog/things-ive-written), contains many of my early thoughts, writings, 'n philosophies  
   
 [rathewolf](https://rathewolf.com), my new digital home (*this* site)
   - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies: my language: my mind  
