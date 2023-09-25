@@ -22,12 +22,12 @@
 ---
 
 ### strange marks
-[~~rahil's notepad~~](https://rahilpatel.com), my first web-site, since circa 2005(?) *((UPDATE: lost my domain in 2023 :( ))*
+[~~rahil's notepad~~](https://rahilpatel.com), my first web-site, since circa 2005(?) <span style="color:red">*update: lost my domain in 2023 ;(*</span>
   - [~~things i've written~~](https://rahilpatel.com/blog/things-ive-written), contains many of my early thoughts, writings, 'n philosophies  
   
 [rathewolf](https://rathewolf.com), my new digital home (*this* site)
   - [the mind of rathewolf](https://mind.rathewolf.com), a new digital home for my philosophies: my language: my mind  
-    - [my history](https://mind.rathewolf.com/resume), a history of my life 'n work  
+    - [my work history](https://mind.rathewolf.com/resume), a history of my life through work
     - [my portfolio](https://mind.rathewolf.com/portfolio), lists my early digital works and my early writings 
   
 [willowolf](https://willo.rathewolf.com), paths, directions, *desires*, ideals: my wills, my willowolves *((UPDATE: lost this domain too))*
